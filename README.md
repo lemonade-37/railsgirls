@@ -2,8 +2,8 @@
 
 Rails Girls Sapporo 2nd 完成形デモ用
 
-Ruby: 3.4.5
-Rails: 8.0.2.1
+Ruby: 3.4.7
+Rails: 8.0.3
 
 [ガイド 8: 画像アップロード機能を追加しよう](https://railsgirls.jp/uploads) まで実施。
 
